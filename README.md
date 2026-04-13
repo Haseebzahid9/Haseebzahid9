@@ -5,19 +5,39 @@
 <br/>
 
 **Haseeb Zahid**
+
 *Building clean interfaces, solving complex problems, and engineering reliable networks.*
 
 <br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=haseebzahid9&style=flat-square&color=58a6ff&label=Profile+Views)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/haseebzahid9?label=Followers&style=flat-square&color=58a6ff)](https://github.com/haseebzahid9)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/haseebzahid9?label=Stars&style=flat-square&color=3fb950)](https://github.com/haseebzahid9)
+
+</div>
+
 ---
 
+<div align="center">
+
 ### About Me
+
+</div>
 
 I am a developer with a strong foundation in both frontend and systems-level programming.
 My work spans user interface design, full-stack web development, and low-level programming with C and C++.
 I have a keen interest in data structures, algorithms, and computer networking principles.
+I write clean, maintainable code and enjoy working on projects that sit at the intersection of design and engineering.
+
+- Currently deepening expertise in Data Structures and Algorithms using C++
+- Exploring computer networking through socket programming and protocol design
+- Open to collaboration on web applications, UI/UX projects, and systems programming
 
 ---
+
+<div align="center">
 
 ### Languages
 
@@ -45,46 +65,77 @@ I have a keen interest in data structures, algorithms, and computer networking p
 
 ### Computer Networking
 
-![Networking](https://img.shields.io/badge/TCP%2FIP-0078D4?style=flat-square&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0078D4?style=flat-square&logo=cisco&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS%20%26%20HTTP-6DB33F?style=flat-square&logo=cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Socket](https://img.shields.io/badge/Socket+Programming-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
+### Tools & Environment
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS+Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat-square&logo=gnometerminal&logoColor=white)
+
+</div>
+
 ---
 
+<div align="center">
+
 ### Data Structures and Algorithms
+
+</div>
 
 > Working through core DSA concepts daily using C++ as the primary language.
 
 - Arrays, Linked Lists, Stacks, Queues
-- Trees, Graphs, Heaps
+- Trees, Binary Search Trees, Heaps
+- Graphs — BFS, DFS, Shortest Path
 - Sorting and Searching Algorithms
 - Dynamic Programming and Recursion
+- Time and Space Complexity Analysis
 
 ---
+
+<div align="center">
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Haseeb-Zahid&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Haseeb-Zahid&theme=github-dark-blue&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=haseebzahid9&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=haseebzahid9&theme=github-dark-blue&hide_border=true" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-Zahid&layout=compact&theme=github_dark&hide_border=true" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebzahid9&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="42%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haseebzahid9&theme=github-compact&hide_border=true&area=true" width="95%" />
+
+</div>
 
 ---
 
+<div align="center">
+
 ### Connect
 
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haseebzahid4998@gmail.com)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/haseebzahid_)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/haseebzahid9)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-zahid)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:haseebzahid@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Haseeb-Zahid)
+
+<br/>
 
 ---
 
 *Thank you for visiting my profile. Your time and support mean a great deal.*
-*Feel free to explore my repositories and reach out for collaboration.*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Haseeb-Zahid&style=flat-square&color=58a6ff&label=Profile+Views)
+*Feel free to explore my repositories and reach out for collaboration.*
 
 </div>
