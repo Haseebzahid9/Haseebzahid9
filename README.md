@@ -1,39 +1,45 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Haseeb+Zahid;Building+Modern+Web+Experiences;C%2B%2B+%7C+DSA+%7C+Networking;Clean+Code.+Real+Impact.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Haseeb%20Zahid&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Clean+%26+Scalable+Systems;UI%2FUX+%2B+Low-Level+Programming;C%2B%2B+%7C+DSA+%7C+Networking;Turning+Ideas+Into+Real+Products)](https://git.io/typing-svg)
 
 <br/>
 
-### Haseeb Zahid
-
-*Crafting scalable systems, intuitive interfaces, and efficient solutions.*
+### Software Developer | Problem Solver | System Thinker
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=haseebzahid9&style=flat-square&color=58a6ff)
-&nbsp;
-[![Followers](https://img.shields.io/github/followers/haseebzahid9?style=flat-square&color=58a6ff)](https://github.com/haseebzahid9)
-&nbsp;
-[![Stars](https://img.shields.io/github/stars/haseebzahid9?style=flat-square&color=3fb950)](https://github.com/haseebzahid9)
+<img src="https://komarev.com/ghpvc/?username=haseebzahid9&style=flat-square&color=58a6ff" />
+<img src="https://img.shields.io/github/followers/haseebzahid9?style=flat-square&color=58a6ff" />
+<img src="https://img.shields.io/github/stars/haseebzahid9?style=flat-square&color=3fb950" />
 
 </div>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I focus on building software that is not just functional, but **clean, efficient, and scalable**.
+I build systems that are **fast, clean, and reliable**.
 
-My core strength lies in combining **frontend design thinking** with **low-level problem solving**, allowing me to approach projects from both a user and system perspective.
+Unlike typical developers, I focus on both:
+- **User Experience (Frontend)**
+- **System Logic (C++ / Networking)**
 
-- Working deeply on **Data Structures & Algorithms (C++)**
-- Exploring **Computer Networking & Socket Programming**
-- Building **modern web applications with clean UI/UX**
-- Interested in systems that require both **logic + design balance**
+This allows me to create solutions that are not only usable — but also efficient under the hood.
 
 ---
 
-## Tech Stack
+## ⚡ What Makes Me Different
+
+- I don’t just write code — I **engineer solutions**
+- Strong grip on **DSA & problem solving**
+- Can move from **UI design → backend → low-level logic**
+- Focus on **performance + clean architecture**
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -47,41 +53,41 @@ My core strength lies in combining **frontend design thinking** with **low-level
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Backend & DB
+### Backend & Database
 ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Networking & Systems
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0078D4?style=flat-square)
-![DNS](https://img.shields.io/badge/DNS-6DB33F?style=flat-square)
+### Systems & Networking
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0078D4?style=flat-square)
+![Socket Programming](https://img.shields.io/badge/Sockets-C%2B%2B-blue?style=flat-square)
 
 ---
 
-## What I Work On
+## 🚀 Featured Projects
 
-- Designing responsive and user-focused interfaces  
-- Implementing efficient algorithms and optimized logic  
-- Building backend systems and APIs  
-- Understanding how systems communicate (networking concepts)
+> 🔥 This section is what actually makes you top 1%
+
+### 🔹 AI Chatbot with Custom Personality
+- Built using Python
+- Context-aware responses
+- Modular personality system
+
+### 🔹 Tic-Tac-Toe AI (Minimax + Alpha-Beta)
+- Fully optimized decision-making
+- Game theory implementation
+- Clean architecture
+
+### 🔹 Networking Toolkit
+- Socket-based communication
+- Protocol-level understanding
+- Client-server model
 
 ---
 
-## DSA Focus
-
-Currently sharpening problem-solving skills with:
-
-- Arrays, Linked Lists, Stacks, Queues  
-- Trees, BSTs, Heaps  
-- Graphs (BFS, DFS, Shortest Paths)  
-- Recursion & Dynamic Programming  
-- Complexity Optimization  
-
----
-
-## GitHub Insights
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -90,23 +96,33 @@ Currently sharpening problem-solving skills with:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebzahid9&layout=compact&theme=github_dark&hide_border=true" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebzahid9&layout=compact&theme=github_dark&hide_border=true" width="40%" />
 
 </div>
 
 ---
 
-## Connect
+## 📊 Contribution Graph
 
-- Gmail: haseebzahid4998@gmail.com  
-- Instagram: https://instagram.com/haseebzahid_  
-- LinkedIn: https://www.linkedin.com/in/haseebraza4998/  
-- GitHub: https://github.com/haseebzahid9  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haseebzahid9&theme=github-compact&hide_border=true&area=true" />
+
+---
+
+## 🤝 Connect With Me
+
+- 📧 haseebzahid4998@gmail.com  
+- 🌐 https://github.com/haseebzahid9  
+- 💼 https://www.linkedin.com/in/haseebraza4998/  
+- 📸 https://instagram.com/haseebzahid_  
 
 ---
 
 <div align="center">
 
-*"Good code is not just written — it's engineered."*
+### ⚡ Final Thought
+
+*"Simple code is easy to write. Clean, scalable code is engineered."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer"/>
