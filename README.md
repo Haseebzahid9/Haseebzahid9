@@ -1,128 +1,235 @@
+```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Haseeb%20Zahid&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,30:2563EB,70:3B82F6,100:60A5FA&text=Haseeb%20Raza&fontColor=ffffff&fontSize=48&fontAlignY=38"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Clean+%26+Scalable+Systems;UI%2FUX+%2B+Low-Level+Programming;C%2B%2B+%7C+DSA+%7C+Networking;Turning+Ideas+Into+Real+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Developer;MERN+Stack+Developer;AI+%26+LLM+Application+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Python;Data+Structures+%7C+Algorithms+%7C+System+Design;Computer+Networks+%7C+Operating+Systems)](https://git.io/typing-svg)
 
-<br/>
+### Building scalable software with clean architecture and modern technologies.
 
-### Software Developer | Problem Solver | System Thinker
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=haseebzahid9&style=flat-square&color=58a6ff" />
-<img src="https://img.shields.io/github/followers/haseebzahid9?style=flat-square&color=58a6ff" />
-<img src="https://img.shields.io/github/stars/haseebzahid9?style=flat-square&color=3fb950" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=Haseebzahid9&style=for-the-badge&color=0e75b6" />
+<img src="https://img.shields.io/github/followers/Haseebzahid9?style=for-the-badge&logo=github&color=181717" />
+<img src="https://img.shields.io/github/stars/Haseebzahid9?style=for-the-badge&logo=github&color=f1c40f" />
+</p>
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 👨‍💻 About Me
 
-I build systems that are **fast, clean, and reliable**.
+I'm **Haseeb Raza**, a Computer Science student at **FAST NUCES** and a passionate **Full Stack Software Developer** focused on building scalable web applications, AI-powered systems, and efficient software solutions.
 
-Unlike typical developers, I focus on both:
-- **User Experience (Frontend)**
-- **System Logic (C++ / Networking)**
+My interests span across modern web development, artificial intelligence, system programming, networking, and software architecture. I enjoy solving complex engineering problems using clean code, efficient algorithms, and thoughtful system design.
 
-This allows me to create solutions that are not only usable — but also efficient under the hood.
-
----
-
-## ⚡ What Makes Me Different
-
-- I don’t just write code — I **engineer solutions**
-- Strong grip on **DSA & problem solving**
-- Can move from **UI design → backend → low-level logic**
-- Focus on **performance + clean architecture**
+- 💻 Full Stack MERN Developer
+- 🤖 AI & LLM Application Developer
+- 📊 Strong foundation in Data Structures & Algorithms
+- 🌐 Interested in System Design & Computer Networks
+- ⚡ Passionate about Performance Optimization
+- 🚀 Always learning new technologies
 
 ---
 
-## 🛠️ Tech Stack
+# 💼 Experience
 
-### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## React Developer Intern
+**Amrood Labs Pvt Ltd**  
+📅 June 2025 – August 2025
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Backend & Database
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Systems & Networking
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0078D4?style=flat-square)
-![Socket Programming](https://img.shields.io/badge/Sockets-C%2B%2B-blue?style=flat-square)
+- Developed responsive React.js applications
+- Built reusable UI components
+- Worked with Tailwind CSS
+- Collaborated using Agile methodology
+- Improved frontend performance
+- Participated in code reviews and feature development
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Tech Stack
 
-> 🔥 This section is what actually makes you top 1%
+## Languages
 
-### 🔹 AI Chatbot with Custom Personality
-- Built using Python
-- Context-aware responses
-- Modular personality system
-
-### 🔹 Tic-Tac-Toe AI (Minimax + Alpha-Beta)
-- Fully optimized decision-making
-- Game theory implementation
-- Clean architecture
-
-### 🔹 Networking Toolkit
-- Socket-based communication
-- Protocol-level understanding
-- Client-server model
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/x86%20Assembly-6E4C13?style=for-the-badge)
 
 ---
 
-## 📈 GitHub Stats
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+---
+
+## Backend & Database
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+
+---
+
+## AI & Machine Learning
+
+![Python](https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-8E44AD?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-1abc9c?style=for-the-badge)
+![ANN](https://img.shields.io/badge/ANN-e74c3c?style=for-the-badge)
+![KMeans](https://img.shields.io/badge/K--Means-16a085?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
+
+---
+
+# 🚀 Featured Projects
+
+## 📌 Recruitment Management System
+
+> React • Node.js • Express • MongoDB • Cloudinary • JWT • Gmail SMTP
+
+A full-stack Applicant Tracking System (ATS) featuring job posting, resume uploads, applicant management, interview scheduling, authentication, and email notifications.
+
+---
+
+## 🤖 AI Movie Recommendation System
+
+> Python • ANN • K-Means • NumPy • Pandas • Scikit-Learn
+
+An intelligent recommendation engine that combines clustering, neural networks, and constraint satisfaction to deliver personalized movie recommendations.
+
+---
+
+## ✋ PhantomTrace — Hand Tracking AR
+
+> JavaScript • MediaPipe • HTML5 Canvas • Web Audio API
+
+A browser-based augmented reality application enabling real-time gesture recognition, hand tracking, and interactive air drawing.
+
+---
+
+## 🌐 Social Media Platform
+
+> C++ • AVL Trees • Graphs • Hash Tables • Queues • Linked Lists
+
+A complete data-structure-driven social media simulation implementing messaging, friendships, notifications, posts, and ranking algorithms.
+
+---
+
+## 🏦 Banking Management System
+
+> MySQL • Stored Procedures • Triggers • JavaScript
+
+A database-driven banking solution supporting accounts, transactions, loans, authentication, and administrative controls.
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haseebzahid9&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=haseebzahid9&theme=github-dark-blue&hide_border=true" width="48%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Haseebzahid9&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<br/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Haseebzahid9&theme=github-dark-blue&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebzahid9&layout=compact&theme=github_dark&hide_border=true" width="40%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebzahid9&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📊 Contribution Graph
+# 🏆 GitHub Trophies
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haseebzahid9&theme=github-compact&hide_border=true&area=true" />
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Haseebzahid9&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+# 📈 Contribution Graph
 
-- 📧 haseebzahid4998@gmail.com  
-- 🌐 https://github.com/haseebzahid9  
-- 💼 https://www.linkedin.com/in/haseebraza4998/  
-- 📸 https://instagram.com/haseebzahid_  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haseebzahid9&theme=github-compact&hide_border=true"/>
+
+---
+
+# 🌱 Currently Learning
+
+- System Design
+- Docker
+- Kubernetes
+- AWS
+- Microservices
+- Advanced React
+- AI Agents
+- LLM Engineering
+
+---
+
+# 🎯 Core Competencies
+
+- Full Stack Web Development
+- REST API Development
+- Database Design
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Computer Networks
+- Operating Systems
+- Artificial Intelligence
+- Problem Solving
+- Clean Architecture
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+📧 **Email:** haseebzahid4998@gmail.com
+
+💼 **LinkedIn:**  
+https://linkedin.com/in/haseebraza4998
+
+💻 **GitHub:**  
+https://github.com/Haseebzahid9
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Great software is not just written—it is carefully designed, continuously improved, and built to solve real-world problems."**
 
 ---
 
 <div align="center">
 
-### ⚡ Final Thought
+### ⭐ Thanks for visiting my profile!
 
-*"Simple code is easy to write. Clean, scalable code is engineered."*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,30:2563EB,70:3B82F6,100:60A5FA"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer"/>
+```
